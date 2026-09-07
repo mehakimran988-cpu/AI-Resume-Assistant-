@@ -14,7 +14,7 @@ from docx import Document
 # Configuration
 # ============================================================
 
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.6-flash"
 MAX_FILE_MB = 10
 
 
